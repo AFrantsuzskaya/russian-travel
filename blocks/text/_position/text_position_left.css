@@ -1,0 +1,16 @@
+.text_position_left {
+  margin: 8px auto 0 0;
+  position: relative;
+  left: 0;
+}
+@media screen and (max-width: 1024px) {
+  .text_position_left {
+    left: 24px;
+  }
+}
+
+@media screen and (max-width: 768px) {
+    .text_position_left {
+      left: 16px;
+    }
+  }
