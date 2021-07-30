@@ -5,3 +5,4 @@
 
 **HTML5, CSS**
 
+* [Ссылка на проект](https://afrantsuzskaya.github.io/russian-travel/index.html)
