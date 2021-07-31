@@ -4,13 +4,13 @@
     left: 0;
   }
   @media screen and (max-width: 1024px) {
-    .text_position_left {
+    .indent {
       left: 24px;
     }
   }
   
   @media screen and (max-width: 768px) {
-      .text_position_left {
+      .indent {
         left: 16px;
       }
     }
