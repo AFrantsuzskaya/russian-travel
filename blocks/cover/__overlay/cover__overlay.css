@@ -1,10 +1,9 @@
 .cover__overlay {
-  background: #2A2C2F;
-  opacity: 0.3;
+  background: rgb(42, 44, 47, .3);
   max-height: 100%;
   transition: all .5s;
 }
 
 .cover__overlay:hover {
-  opacity: 0.8;
+  background: rgb(42, 44, 47, .8);
 }
