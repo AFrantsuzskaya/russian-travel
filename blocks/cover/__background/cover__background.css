@@ -4,3 +4,13 @@
   height: 100%;
   width: 100%;
 }
+
+.cover__background::before {
+  background: rgb(42, 44, 47, .3);
+  max-height: 100%;
+  transition: all .5s;
+}
+
+.cover__background::before:hover {
+  background: rgb(42, 44, 47, .8);
+}

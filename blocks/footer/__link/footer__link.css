@@ -13,14 +13,14 @@
   
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .footer__link {
     font-size: 24px;
     line-height: 1;
     flex-direction: column;
-    padding-top: 64px 0 0;
+    padding: 64px 0 0;
     justify-content: space-between;
-    height: 248px;
+    min-height: 248px;
     width: 288px;
 }
 }

@@ -8,18 +8,15 @@
   min-height: 208px;
 }
 
-@media screen and (max-width: 1024px) {
+@media screen and (max-width: 1023px) {
   .intro__text {
-    font-size: 16px;
     line-height: 26px;
     width: 768px;
     padding: 40px 0 0 24px;
   }
 }
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 767px) {
   .intro__text {
-    font-size: 16px;
-    line-height: 26px;
-    padding: 40px 0 0 3px;
+    padding: 40px 0 0;
   }
 }
