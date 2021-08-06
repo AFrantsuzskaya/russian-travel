@@ -8,14 +8,14 @@
 
 @media screen and (max-width: 1279px) {
   .intro {
-    width: 928px;
-    padding: 92px 42px;
+    max-width: 928px;
+    padding: 92px 0;
   }
 }
 
 @media screen and (max-width: 1023px) {
   .intro {
-    width: 768px;
+    max-width: 768px;
     padding: 88px 0;
     justify-content: flex-start;
   }
@@ -24,7 +24,7 @@
 @media screen and (max-width: 767px) {
   .intro {
     padding: 64px 0 65px;
-    width: 288px;
+    max-width: 288px;
   }
 }
 

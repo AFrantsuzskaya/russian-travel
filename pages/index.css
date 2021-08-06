@@ -20,6 +20,7 @@
 @import url('../blocks/intro/__span-accent/intro__span-accent.css');
 @import url('../blocks/photo-grid/photo-grid.css');
 @import url('../blocks/photo-grid/__item/photo-grid__item.css');
+@import url('../blocks/places-grid/places-grid.css');
 @import url('../blocks/places/places.css');
 @import url('../blocks/place/place.css');
 @import url('../blocks/place/__title/place__title.css');
@@ -35,7 +36,5 @@
 @import url('../blocks/footer/footer.css');
 @import url('../blocks/footer/__link/footer__link.css');
 @import url('../blocks/footer/__copyright/footer__copyright.css');
-@import url('../blocks/footer-content/footer-content.css');
 @import url('../blocks/text/text.css');
-@import url('../blocks/indent/indent.css');
 @import url('../blocks/content/content.css');
