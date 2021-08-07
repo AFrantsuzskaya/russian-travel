@@ -12,7 +12,7 @@
   .intro__text {
     line-height: 26px;
     width: 768px;
-    padding: 40px 0 0 24px;
+    padding: 40px 0 0 18px;
   }
 }
 @media screen and (max-width: 767px) {
